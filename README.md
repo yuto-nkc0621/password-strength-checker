@@ -1,4 +1,4 @@
-# password-strength-checker
+# password-strength-checker/パスワード強度チェック
 
 import re
 
